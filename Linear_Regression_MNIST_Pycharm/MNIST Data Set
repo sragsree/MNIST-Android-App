@@ -1,0 +1,7 @@
+Contains hand drawn images of digits 0-9 and labels
+Each image is 28 x 28 pixels and each pixel has value of 0-1
+    - 0 is a white pixel, 1 is a black pixel
+Each label is an array of 10 elements with nine 0s and one 1
+    - 1 is in the index of the corresponding digit
+    - rest of the indices contain 0s
+60000 training images and labels and 10000 testing images and labels

@@ -1,0 +1,11 @@
+Build a digit recognition app using MNIST data set
+Learn about the MNIST data set
+Build the model in pycharm
+    - Build the computational graph based on linear regression
+    - Train and test the model using MNIST data
+    - Save the model for android import (freeze graph into protobuff file)
+Import the model into android studio
+    - Import the files and add necessary graph variables
+    - Build the UI and connect to main file
+    - Write code to process images and make a prediction
+    - Test the model with some pre-drawn digit images
